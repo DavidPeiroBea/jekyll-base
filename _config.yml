@@ -28,6 +28,7 @@ twitter_username: David Peiró Bea
 github_username:  DavidPeiroBea
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
